@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **InSync Project**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Javascript, ReactJS**
 
