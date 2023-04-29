@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **InSync Project**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django and Docker**
 
-- 💬 Ask me about **Javascript, ReactJS**
+- 💬 Ask me about **Javascript, ReactJS, Python**
 
 - 📫 How to reach me **cviniciusliramdev@gmail.com**
 
