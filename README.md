@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Docker and Next**
 
-- 💬 Ask me about **Javascript, ReactJS, Python**
+- 💬 Ask me about **Javascript, ReactJS**
 
 - 📫 How to reach me **cviniciusliramdev@gmail.com**
 
