@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinisooo&label=Profile%20views&color=0e75b6&style=flat" alt="vinisooo" /> </p>
 
-- 🔭 I’m currently working on **InSync Project**
+- 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Django and Docker**
+- 🌱 I’m currently learning **Docker and Next**
 
 - 💬 Ask me about **Javascript, ReactJS, Python**
 
