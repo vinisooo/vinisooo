@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Docker and Next**
+- 🌱 I’m currently learning **Docker and PrismaORM**
 
 - 💬 Ask me about **Javascript, ReactJS**
 
