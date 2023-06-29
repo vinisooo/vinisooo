@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p>If you want to do a project or just chat with me, don't hesitate to send me a message</p>
 <p align="left">
-<a href="https://linkedin.com/in/vinícius-lira-a6294b244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinícius lira" height="30" width="40" /></a>
-<a href="https://discord.com/users/1012821289712492575" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-7-1.png" alt="figma" width="40" height="40"/></a>
+<a href="https://linkedin.com/in/vinícius-lira-a6294b244" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vinícius lira" height="30" width="40" /></a>
+<a href="https://discord.com/users/1012821289712492575" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="figma" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
