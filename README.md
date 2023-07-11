@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Motors Shop Project**
 
-- 🌱 I’m currently learning **Docker and PrismaORM**
+- 🌱 I’m currently learning **Software Architecture Concepts**
 
 - 💬 Ask me about **Javascript, ReactJS**
 
