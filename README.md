@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinisooo&label=Profile%20views&color=0e75b6&style=flat" alt="vinisooo" /> </p>
 
-- 🔭 I’m currently working on **Swift Stock Project**
+- 🔭 I’m currently working at **Innovo Tecnologia da Informação**
 
 - 🌱 I’m currently learning **Software Architecture Concepts**
 
