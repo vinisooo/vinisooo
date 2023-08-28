@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Game Development with Godot**
 
-- 💬 Ask me about **Javascript, ReactJS**
+- 💬 Ask me about **Javascript, Design**
 
 - 📫 How to reach me **cviniciusliramdev@gmail.com**
 
