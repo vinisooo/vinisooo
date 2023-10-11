@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Innovo Tecnologia da Informação**
 
-- 🌱 I’m currently learning **Game Development with Godot**
+- 🌱 I’m currently studying **Software Engineering**
 
 - 💬 Ask me about **Javascript, Design**
 
