@@ -9,11 +9,7 @@
 
 - 🌱 I’m currently studying **Software Engineering**
 
-- 💬 Ask me about **Javascript, Design**
-
 - 📫 How to reach me **cviniciusliramdev@gmail.com**
-
-- ⚡ Fun fact: **I like to play online games and play guitar in my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p>If you want to do a project or just chat with me, don't hesitate to send me a message</p>
