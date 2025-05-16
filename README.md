@@ -1,12 +1,12 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/ZpTTwjpx/github-header-image.png" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">👋 Hi there! I'm Vinicius — Passionate About Code, Design & Innovation</div>  
   
 
-- 🔭 I’m currently working on [Horus](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Horus](https://www.google.com)  
   
 
 - 💼 I’m currently working at Innovo LTDA as a full-stack dev  
