@@ -5,8 +5,7 @@
 
 I’m a software engineer with a strong interest in building scalable web applications, clean code, and solving real-world problems with technology. I enjoy working across the stack, but lately, my focus has been on **Go for backend** development and **Angular** on the frontend.
 
-- 🛠 Currently working at **Innovo** as a full-stack dev  
-- 🚀 Actively building [Horus](https://www.google.com)  
+- 🛠 Currently working at **Grupo TBX** as a full-stack dev  
 
 ---
 
